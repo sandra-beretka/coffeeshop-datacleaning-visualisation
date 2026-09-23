@@ -1,0 +1,1 @@
+In this project dirty_cafe_sales.csv file was cleaned in Coffeshop-datacleaning.ipynb file. Then the new file dirty_cafe_sales_cleaned.csv was analysed and visualised in Coffee shop dashboard.pbix power bi file.
